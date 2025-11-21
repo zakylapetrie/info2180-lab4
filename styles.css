@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    padding: 20px;
+    background-color: #fff;
+}
+
+h1 {
+    color: #000;
+    font-style: bold;
+}
+
+#searchBtn {
+    padding: 5px 15px;
+    font-size: 14px;
+    cursor: pointer;
+}
